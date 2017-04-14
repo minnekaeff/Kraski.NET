@@ -1,0 +1,21 @@
+C:\Users\Айдар\Documents\Cloud Mail.ru\Учеба\4 семестр (2 курс, 2 семестр)\КГ\Kraski.NET\Kraski.NET\bin\Debug\Kraski.NET.exe.config
+C:\Users\Айдар\Documents\Cloud Mail.ru\Учеба\4 семестр (2 курс, 2 семестр)\КГ\Kraski.NET\Kraski.NET\bin\Debug\Kraski.NET.exe
+C:\Users\Айдар\Documents\Cloud Mail.ru\Учеба\4 семестр (2 курс, 2 семестр)\КГ\Kraski.NET\Kraski.NET\bin\Debug\Kraski.NET.pdb
+C:\Users\Айдар\Documents\Cloud Mail.ru\Учеба\4 семестр (2 курс, 2 семестр)\КГ\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.csprojResolveAssemblyReference.cache
+C:\Users\Айдар\Documents\Cloud Mail.ru\Учеба\4 семестр (2 курс, 2 семестр)\КГ\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.Properties.Resources.resources
+C:\Users\Айдар\Documents\Cloud Mail.ru\Учеба\4 семестр (2 курс, 2 семестр)\КГ\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.csproj.GenerateResource.Cache
+C:\Users\Айдар\Documents\Cloud Mail.ru\Учеба\4 семестр (2 курс, 2 семестр)\КГ\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.exe
+C:\Users\Айдар\Documents\Cloud Mail.ru\Учеба\4 семестр (2 курс, 2 семестр)\КГ\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.pdb
+C:\Users\Айдар\Documents\Cloud Mail.ru\Учеба\4 семестр (2 курс, 2 семестр)\КГ\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.Form1.resources
+C:\Users\Айдар\Desktop\Kraski.NET\Kraski.NET\bin\Debug\Kraski.NET.exe.config
+C:\Users\Айдар\Desktop\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.exe
+C:\Users\Айдар\Desktop\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.pdb
+C:\Users\Айдар\Desktop\Kraski.NET\Kraski.NET\bin\Debug\Kraski.NET.exe
+C:\Users\Айдар\Desktop\Kraski.NET\Kraski.NET\bin\Debug\Kraski.NET.pdb
+C:\Users\Айдар\Desktop\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.csprojResolveAssemblyReference.cache
+C:\Users\Айдар\Desktop\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.Form1.resources
+C:\Users\Айдар\Desktop\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.Properties.Resources.resources
+C:\Users\Айдар\Desktop\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.csproj.GenerateResource.Cache
+C:\Users\Minne\Desktop\Kraski.NET\Kraski.NET\bin\Debug\Kraski.NET.exe.config
+C:\Users\Minne\Desktop\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.exe
+C:\Users\Minne\Desktop\Kraski.NET\Kraski.NET\obj\Debug\Kraski.NET.pdb
